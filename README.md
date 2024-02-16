@@ -1,6 +1,6 @@
 - Hi, I’m Mephistase
-- I’m interested in video games, ECS, narrative design and programming in general
-- I know some Unity and I use Godot.
+- I’m making video games, and I am currently working on becoming a Narrative Designer !
+- I know some Unity and Twine, and I use Godot.
 - Check my itch.io !
 - https://mephistase.itch.io/
 
